@@ -1,3 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --color-secondary-fixed: #d8e2ff;
+  --color-on-primary-container: #5b0017;
+  --color-on-primary: #67001b;
+  --color-surface-tint: #ffb2b7;
+  --color-on-background: #e2e2e8;
+  --color-on-secondary-container: #e6ecff;
+  --color-on-tertiary-fixed: #001f26;
+  --color-on-secondary-fixed: #001a42;
+  --color-error: #ffb4ab;
+  --color-on-tertiary-container: #002f38;
+  --color-secondary-fixed-dim: #adc6ff;
+  --color-surface-container-lowest: #0c0e12;
+  --color-on-error-container: #ffdad6;
+  --color-inverse-primary: #bc0b3b;
+  --color-surface-container-highest: #333539;
+  --color-on-surface-variant: #e3bdbf;
+  --color-error-container: #93000a;
+  --color-surface-bright: #37393e;
+  --color-surface-variant: #333539;
+  --color-on-secondary: #002e6a;
+  --color-secondary-container: #0566d9;
+  --color-tertiary-fixed-dim: #4cd7f6;
+  --color-on-primary-fixed-variant: #92002a;
+  --color-on-secondary-fixed-variant: #004395;
+  --color-on-tertiary-fixed-variant: #004e5c;
+  --color-surface: #111317;
+  --color-surface-container-low: #1a1c20;
+  --color-surface-dim: #111317;
+  --color-tertiary-fixed: #acedff;
+  --color-primary-container: #ff516a;
+  --color-on-primary-fixed: #40000d;
+  --color-outline-variant: #5b4041;
+  --color-background: #111317;
+  --color-tertiary: #4cd7f6;
+  --color-on-error: #690005;
+  --color-on-surface: #e2e2e8;
+  --color-on-tertiary: #003640;
+  --color-outline: #aa888a;
+  --color-surface-container-high: #282a2e;
+  --color-primary: #ffb2b7;
+  --color-primary-fixed-dim: #ffb2b7;
+  --color-surface-container: #1e2024;
+  --color-inverse-surface: #e2e2e8;
+  --color-primary-fixed: #ffdadb;
+  --color-tertiary-container: #009eb9;
+  --color-secondary: #adc6ff;
+  --color-inverse-on-surface: #2f3035;
+
+  --spacing-unit-sm: 0.75rem;
+  --spacing-unit-2xl: 3rem;
+  --spacing-margin-desktop: 2rem;
+  --spacing-unit-xs: 0.5rem;
+  --spacing-unit-lg: 1.5rem;
+  --spacing-unit-md: 1rem;
+  --spacing-unit-xl: 2rem;
+  --spacing-margin-mobile: 1rem;
+  --spacing-gutter-hud: 1.25rem;
+  --spacing-unit-2xs: 0.25rem;
+  
+  --font-label-caps: Inter, sans-serif;
+  --font-body-bold: Inter, sans-serif;
+  --font-telemetry-coord: JetBrains Mono, monospace;
+  --font-telemetry-time: JetBrains Mono, monospace;
+  --font-telemetry-stat: JetBrains Mono, monospace;
+  --font-body-base: Inter, sans-serif;
+  --font-headline-sm: Space Grotesk, sans-serif;
+  --font-display-lg-mobile: Space Grotesk, sans-serif;
+  --font-caption: Inter, sans-serif;
+  --font-display-lg: Space Grotesk, sans-serif;
+  --font-headline-md: Space Grotesk, sans-serif;
+}
+
 /* ═══════════════ NearHelp — Tactical HUD Design System ═══════════════ */
 /* Google Stitch Material Design 3 Dark Theme */
 
