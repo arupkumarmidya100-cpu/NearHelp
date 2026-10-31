@@ -15,12 +15,11 @@ The project was developed as part of the **NIT Jamshedpur — Hack De Science** 
 | Attribute | Detail |
 |---|---|
 | **Project Name** | NearHelp |
-| **Repository** | [MR-ARKO-JANA/NIT\_\_HACK\_DE\_SCIENCE](https://github.com/MR-ARKO-JANA/NIT__HACK_DE_SCIENCE) |
-| **Production Repo** | [MR-ARKO-JANA/Real-Time-Emergency-Response-Platform](https://github.com/MR-ARKO-JANA/Real-Time-Emergency-Response-Platform) |
-| **License** | MIT (Copyright © 2026 Aritra Saha) |
-| **Total Commits** | 27 |
-| **Development Period** | Feb 27, 2026 — Apr 28, 2026 (~2 months) |
-| **Contributors** | Aritra (20 commits), Arko Jana (8 commits) |
+| **Repository** | [arupkumarmidya100-cpu/NearHelp](https://github.com/arupkumarmidya100-cpu/NearHelp) |
+| **Production Repo** | [arupkumarmidya100-cpu/NearHelp](https://github.com/arupkumarmidya100-cpu/NearHelp) |
+| **License** | MIT |
+| **Last Updated** | October 31, 2026 |
+| **Status** | Active / Production-Ready |
 
 ---
 
